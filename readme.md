@@ -2,4 +2,4 @@
 
 # Test Project
 
-Demo
+Demo project
